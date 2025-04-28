@@ -1,0 +1,26 @@
+.row{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+.row div{
+    padding: 10px;
+}
+img{
+    width: 100%;
+}
+.phuongcham{
+    display: grid;
+    grid-template-columns: 1000px 1000px;
+}
+.longchu{
+    position: absolute;
+    top: 10px;
+    left: 600px;
+    color: aliceblue;
+}
+.longchu-1{
+    position: absolute;
+    top: 60px;
+    left: 650px;
+    color: aliceblue;
+}
