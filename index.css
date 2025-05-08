@@ -1,16 +1,22 @@
 .row{
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 30% 30% 30%;
 }
 .row div{
-    padding: 10px;
+    padding: 10px 5px;
+}
+.anh1 div{
+    padding: 40px 111px 55px 10px;
+}
+.anh5 div{
+    padding: 20px 2px 10px 5px;
 }
 img{
     width: 100%;
 }
 .phuongcham{
     display: grid;
-    grid-template-columns: 1000px 1000px;
+    grid-template-columns: 960px 800px;
 }
 .longchu{
     position: absolute;
