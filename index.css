@@ -1,26 +1,109 @@
+
+
+.logo{
+    padding: 0px 40px;
+}
+
+.page{
+    position: absolute;
+    top: 50px;
+    left: 900px;
+    font-size: 27px;
+}
+
+.hoatdong{
+    position: absolute;
+    top: 50px;
+    left: 1077px;
+    font-size: 27px;
+}
+
+.noiquy{
+    position: absolute;
+    top: 50px;
+    left: 1260px;
+    font-size: 27px;
+}
+
+.ech{
+    position: absolute;
+    top: 30px;
+    left: 1400px;
+}
+
+.text1{
+    position: absolute;
+    top: 110px;
+    left: 450px;
+    color: aliceblue;
+    font-size: 24.5px;
+}
+
+.text2{
+    position: absolute;
+    top: 210px;
+    left: 490px;
+    color: aliceblue;
+    font-size: 27px;
+}
+
+.text3{
+    padding-left: 40px;
+    font-size: 27px;
+}
+
+.text4{
+    padding-left: 40px;
+    font-size: 27px;
+}
+
+.banner{
+    padding: 10px 40px;
+}
+
+
 .row{
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-}
-.row div{
-    padding: 10px;
-}
-img{
     width: 100%;
+display: grid;
+grid-template-columns:  33.3% 33.3% 33.3%;
 }
-.phuongcham{
+.cot1{
+    
+    margin: 20px 0px 20px 40px;
+}
+
+.cot2{
+   margin: 20px 10px 20px 20px;
+}
+
+
+.anh1{
+    margin-bottom: 20px;
+}
+.anh2{
+    margin-bottom: 20px;
+   
+}
+.anh3{
+   
+    margin: 20px 0px 0px 0px;
+}
+
+.ket{
+    
     display: grid;
-    grid-template-columns: 1000px 1000px;
+    grid-template-columns: 50% 50%;
 }
-.longchu{
+
+.phuongcham{
     position: absolute;
-    top: 10px;
-    left: 600px;
-    color: aliceblue;
+    left: 40px;
+    right: 500px;
+    font-size: 27px;
 }
-.longchu-1{
+
+.ttll{
     position: absolute;
-    top: 60px;
-    left: 650px;
-    color: aliceblue;
+    left: 1080px;
+    font-size: 27px;
 }
