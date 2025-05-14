@@ -1,5 +1,3 @@
-
-
 .logo{
     padding: 0px 40px;
 }
@@ -61,14 +59,13 @@
     padding: 10px 40px;
 }
 
-
 .row{
     width: 100%;
 display: grid;
 grid-template-columns:  33.3% 33.3% 33.3%;
 }
-.cot1{
-    
+
+.cot1{   
     margin: 20px 0px 20px 40px;
 }
 
@@ -76,20 +73,18 @@ grid-template-columns:  33.3% 33.3% 33.3%;
    margin: 20px 10px 20px 20px;
 }
 
-
 .anh1{
     img {
   border-radius: 10px;
 }
-    margin-bottom: 20px;
-    
+    margin-bottom: 20px;   
 }
+
 .anh2{
     img {
   border-radius: 10px;
 }
-    margin-bottom: 20px;
-   
+    margin-bottom: 20px; 
 }
 
 .anh3{
@@ -113,13 +108,11 @@ grid-template-columns:  33.3% 33.3% 33.3%;
     margin-bottom: 20px;
 }
 
-
 .duongke{
     padding: 0px 40px;
 }
 
-.ket{
-    
+.ket{  
     display: grid;
     grid-template-columns: 50% 50%;
 }
