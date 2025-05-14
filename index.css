@@ -78,15 +78,44 @@ grid-template-columns:  33.3% 33.3% 33.3%;
 
 
 .anh1{
+    img {
+  border-radius: 10px;
+}
     margin-bottom: 20px;
+    
 }
 .anh2{
+    img {
+  border-radius: 10px;
+}
     margin-bottom: 20px;
    
 }
+
 .anh3{
-   
-    margin: 20px 0px 0px 0px;
+    img {
+  border-radius: 10px;
+}
+    margin: 20px 0px 0px 0px;  
+}
+
+.anh4{
+    img {
+  border-radius: 10px;
+}
+    margin-bottom: 20px;
+}
+
+.anh5{
+    img {
+  border-radius: 10px;
+}
+    margin-bottom: 20px;
+}
+
+
+.duongke{
+    padding: 0px 40px;
 }
 
 .ket{
