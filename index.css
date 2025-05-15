@@ -1,0 +1,131 @@
+.logo{
+    padding: 0px 40px;
+}
+
+.page{
+    position: absolute;
+    top: 50px;
+    left: 900px;
+    font-size: 27px;
+}
+
+.hoatdong{
+    position: absolute;
+    top: 50px;
+    left: 1077px;
+    font-size: 27px;
+}
+
+.noiquy{
+    position: absolute;
+    top: 50px;
+    left: 1260px;
+    font-size: 27px;
+}
+
+.ech{
+    position: absolute;
+    top: 30px;
+    left: 1400px;
+}
+
+.text1{
+    position: absolute;
+    top: 110px;
+    left: 450px;
+    color: aliceblue;
+    font-size: 24.5px;
+}
+
+.text2{
+    position: absolute;
+    top: 210px;
+    left: 490px;
+    color: aliceblue;
+    font-size: 27px;
+}
+
+.text3{
+    padding-left: 40px;
+    font-size: 27px;
+}
+
+.text4{
+    padding-left: 40px;
+    font-size: 27px;
+}
+
+.banner{
+    padding: 10px 40px;
+}
+
+.row{
+    width: 100%;
+display: grid;
+grid-template-columns:  33.3% 33.3% 33.3%;
+}
+
+.cot1{   
+    margin: 20px 0px 20px 40px;
+}
+
+.cot2{
+   margin: 20px 10px 20px 20px;
+}
+
+.anh1{
+    img {
+  border-radius: 10px;
+}
+    margin-bottom: 20px;   
+}
+
+.anh2{
+    img {
+  border-radius: 10px;
+}
+    margin-bottom: 20px; 
+}
+
+.anh3{
+    img {
+  border-radius: 10px;
+}
+    margin: 20px 0px 0px 0px;  
+}
+
+.anh4{
+    img {
+  border-radius: 10px;
+}
+    margin-bottom: 20px;
+}
+
+.anh5{
+    img {
+  border-radius: 10px;
+}
+    margin-bottom: 20px;
+}
+
+.duongke{
+    padding: 0px 40px;
+}
+
+.ket{  
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.phuongcham{
+    position: absolute;
+    left: 40px;
+    right: 500px;
+    font-size: 27px;
+}
+
+.ttll{
+    position: absolute;
+    left: 1080px;
+    font-size: 27px;
+}
